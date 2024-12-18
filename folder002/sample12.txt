@@ -1,3 +1,7 @@
 data 
-java 
+ 
 sanu
+durga
+god
+shiva
+
